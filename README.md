@@ -51,6 +51,3 @@ Engaging with these Java practice problems, curated by **REDOWANE AHMED**, will 
 
 **Happy Coding!**
 
----
-
-This version incorporates "REDOWANE AHMED" in the project references but leaves the table clean and focused on the project names. Let me know if you need further changes!
